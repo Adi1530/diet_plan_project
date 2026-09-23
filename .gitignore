@@ -4,4 +4,5 @@ __pycache__/
 *.pyc
 .streamlit/secrets.toml
 .progress.json
+data/measurements.json
 .DS_Store
