@@ -34,3 +34,4 @@ Push this repo to GitHub, then deploy on [Streamlit Community Cloud](https://sha
 3. Python version: 3.12
 
 This is food and training, not medical advice.
+"# diet_plan_project" 
